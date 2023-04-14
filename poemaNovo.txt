@@ -1,0 +1,24 @@
+Git, oh Git,
+versão após versão,
+controlas nosso código,
+com grande precisão.
+
+Branches nos permitem,
+divergir e trabalhar,
+sem medo de conflitos,
+podemos colaborar.
+
+Pull requests são a porta,
+para o projeto principal,
+o time revisa e aprova,
+nosso trabalho é genial.
+
+Code review nos ensina,
+a melhorar sem parar,
+o Git é nosso guia,
+na estrada do programar.
+
+Git, oh Git,
+nós te agradecemos,
+por tornar nosso código,
+mais eficiente e preciso!
